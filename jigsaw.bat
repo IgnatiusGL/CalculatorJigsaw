@@ -1,0 +1,1 @@
+jlink --module-path "out\production\CalculatorJigsaw;out\production\algorithm;lib\module" --add-modules "pers.ignatiusgl.calculator.gui" --launcher pers.ignatiusgl.calculator.gui=pers.ignatiusgl.calculator.gui/pers.ignatiusgl.calculator.gui.main.MainWindow --output "out/application" --strip-debug --compress 2

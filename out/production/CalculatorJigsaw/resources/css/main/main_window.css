@@ -1,0 +1,26 @@
+.root {
+    -fx-focus-color : #36ff0b;
+    -fx-background-color: rgba(90, 94, 86, 0.87);
+}
+#textScreen {
+    -fx-background-color: #0b0b0b;
+    -fx-text-fill: #00e41b;
+    -fx-prompt-text-fill: #00e41b;
+}
+.button {
+    -fx-background-color: #0b0b0b;
+    -fx-text-fill: #28e45c;
+}
+#buttonClearAll {
+    -fx-text-fill: #ff1f12;
+}
+.menu .label {
+    -fx-text-fill: #00e41b;
+}
+.context-menu{
+    -fx-background-color: #0b0b0b;
+    -fx-border-color: #2a2a2a;
+}
+.menu-bar{
+    -fx-background-color: #0b0b0b;
+}
